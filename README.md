@@ -1,7 +1,7 @@
 # Walk-Boston
 
 ## Description of Project:
-The purpose of this exercise if to pull a large data set form the Internet with salaries or people working in the city of Boston in 2014. The data is on JSON format, so needs to be converted to JavaScript to then render it as HTML on a browser. We need to find the 5 top and bottom earners on the city of Boston and find the number of people that earn more than $100k and display these findings on the browser as HTML.
+The purpose of this exercise is to pull a large data set form the Internet with salaries or people working in the city of Boston in 2014. The data is on JSON format, so needs to be converted to JavaScript to then render it as HTML on a browser. We need to find the 5 top and bottom earners on the city of Boston and find the number of people that earn more than $100k and display these findings on the browser as HTML.
 
 ## Roadmap of future improvements:
 Access the JSON data via an API instead of just downloading the file. Also, give the user access to selecting the years they'd like to see salaries for via the GUI.
